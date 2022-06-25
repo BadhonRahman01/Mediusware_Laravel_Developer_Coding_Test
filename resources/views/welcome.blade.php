@@ -94,6 +94,33 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <h2>Products</h2>
+    <table>
+
+        <tr>
+            <th>#</th>
+            <th>Description</th>
+            <th>Variant</th>
+            <th>Price</th>
+            <th>Instock</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        </table> 
+<div style="float: right; padding: 3px 6px">
+  <a href="#">&laquo;</a>
+  <a href="#">1</a>
+  <a href="#">2</a>
+  <a href="#">3</a>
+  <a href="#">4</a>
+  <a href="#">5</a>
+  <a href="#">6</a>
+  <a href="#">&raquo;</a>
+</div>
+
             </div>
         </div>
     </body>

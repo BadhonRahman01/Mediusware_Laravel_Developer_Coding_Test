@@ -20,6 +20,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/products', 'ProductController@index')->name('products');
 
 Route::middleware('auth')->group(function () {
     Route::resource('product-variant', 'VariantController');
